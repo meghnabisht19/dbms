@@ -1,0 +1,1 @@
+<color name="blue">#A16FB2</color>
